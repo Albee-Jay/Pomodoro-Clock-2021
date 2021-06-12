@@ -5,4 +5,4 @@ I built this Pomodoro Clock for Free Code Camp but didn't complete the build the
 
 You can see my clock live here: https://albee-jay.github.io/Pomodoro-Clock-2021/ and of course see the code here on GitHub.
 
-I welcome and appreciate any and all comments or help to make this project better. Thanks Albee-Jay.
+I welcome and appreciate any and all comments or help to make this project better. Thank You, Albee-Jay.
